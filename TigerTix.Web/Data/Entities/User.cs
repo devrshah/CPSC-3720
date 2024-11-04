@@ -1,6 +1,5 @@
 namespace TigerTix.Web.Data.Entities
 {
-
     public class User
     {
         public int ID { get; set; }
